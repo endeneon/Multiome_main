@@ -1,0 +1,9 @@
+cp 0hr_*GABA* /home/zhangs3/NVME/scARC_Duan_018/R_ASoC/merge_60_lines_024_025_029_25Sept2023/0hr_GABA/
+cp 0hr_*NEFM_neg* /home/zhangs3/NVME/scARC_Duan_018/R_ASoC/merge_60_lines_024_025_029_25Sept2023/0hr_nmglut/
+cp 0hr_*NEFM_pos* /home/zhangs3/NVME/scARC_Duan_018/R_ASoC/merge_60_lines_024_025_029_25Sept2023/0hr_npglut/
+cp 1hr_*GABA* /home/zhangs3/NVME/scARC_Duan_018/R_ASoC/merge_60_lines_024_025_029_25Sept2023/1hr_GABA/
+cp 1hr_*NEFM_neg* /home/zhangs3/NVME/scARC_Duan_018/R_ASoC/merge_60_lines_024_025_029_25Sept2023/1hr_nmglut/
+cp 1hr_*NEFM_pos* /home/zhangs3/NVME/scARC_Duan_018/R_ASoC/merge_60_lines_024_025_029_25Sept2023/1hr_npglut/
+cp 6hr_*GABA* /home/zhangs3/NVME/scARC_Duan_018/R_ASoC/merge_60_lines_024_025_029_25Sept2023/6hr_GABA/
+cp 6hr_*NEFM_neg* /home/zhangs3/NVME/scARC_Duan_018/R_ASoC/merge_60_lines_024_025_029_25Sept2023/6hr_nmglut/
+cp 6hr_*NEFM_pos* /home/zhangs3/NVME/scARC_Duan_018/R_ASoC/merge_60_lines_024_025_029_25Sept2023/6hr_npglut/
