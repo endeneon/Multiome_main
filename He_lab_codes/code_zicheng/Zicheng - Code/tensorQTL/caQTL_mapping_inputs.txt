@@ -1,0 +1,9 @@
+0hr npglut 4
+1hr npglut 5
+6hr npglut 8
+0hr GABA 8
+1hr GABA 6
+6hr GABA 7
+0hr nmglut 5
+1hr nmglut 9
+6hr nmglut 6
